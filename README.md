@@ -4,13 +4,13 @@ Hello, I'm Catherine, a passionate data scientist with a knack for transforming 
 
 I've had the pleasure of working on diverse projects showcasing my data analysis, machine learning, and NLP skills. Here are a few highlights:
 
-Syritel Customer Churn Analysis Develop a predictive model to identify customers likely to churn, enabling proactive customer retention strategies.
+Syritel Customer Churn Analysis: Develop a predictive model to identify customers likely to churn, enabling proactive customer retention strategies.
 
-Microsoft movie studio creation Analyzed movie data to guide content creation and marketing strategies for a movie studio project, focusing on audience engagement and box office prediction.
+Microsoft movie studio creation:  Analyzed movie data to guide content creation and marketing strategies for a movie studio project, focusing on audience engagement and box office prediction.
 
-Twitter Sentiment analysis Developed a sentiment analysis model to classify tweets about Apple and Google products, using natural language preprocessing (NLP) techniques.
+Twitter Sentiment analysis: Developed a sentiment analysis model to classify tweets about Apple and Google products, using natural language preprocessing (NLP) techniques.
 
-SHA FAQ Chatbot Development Built a FAQ chatbot using Rasa to assist users with frequently asked questions, enhancing the user experience with efficient responses.
+Customer Segmentation Analysis:  Developed a clustering model to segment customers based on purchasing behavior, enabling targeted marketing strategies and personalized customer engagement
 
 What I'm interested in I'm always excited to explore new data science projects and challenges. Here's what I'm currently focusing on:
 
