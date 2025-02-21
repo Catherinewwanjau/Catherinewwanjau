@@ -1,5 +1,3 @@
-👋 Hi, I’m @CatherineWanjau Data Scientist | Aspiring Machine Learning Engineer
-
 About me
 
 Hello, I'm Catherine, a passionate data scientist with a knack for transforming data into actionable insights. My interest in data science has been fueled by curiosity and a love for tackling real-world challenges. I enjoy diving into data to uncover hidden patterns, make data-driven decisions, and deliver impactful solutions. My projects
