@@ -28,7 +28,7 @@ let's connect
 
 Email: cathy.wanjau33@gmail.com
 
-LinkedIn: Catherine Wanjau
+LinkedIn: https://www.linkedin.com/in/catherine-wanjau-1445a4139/
 
 <!---
 Catherinewwanjau/Catherinewwanjau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
