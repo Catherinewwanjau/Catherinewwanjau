@@ -1,26 +1,25 @@
 About me
 
-Hello, I'm Catherine, a passionate data scientist with a knack for transforming data into actionable insights. My interest in data science has been fueled by curiosity and a love for tackling real-world challenges. I enjoy diving into data to uncover hidden patterns, make data-driven decisions, and deliver impactful solutions. 
+Hello, I'm Catherine, a data driven professional blending years of experience in procurement and supply chain with a growing expertise in data science and analytics. I recently upskilled through a Data Science certification and I'm passionate about turning messy data into clear insigts and acionable decisions.
 
-My projects
+My journey started in inventory and procurement management optimizing monthly orders, managing internal food supply chains, and ensuring data accuracy in educational institution. Today, I'm using Python, SQL, Tableau and Machine learning to solve real world problems in:
 
-I've had the pleasure of working on diverse projects showcasing my data analysis, machine learning, and NLP skills. Here are a few highlights:
+* Demand Forecasting
+* Procurement Analytics
+* Customer Behavoir Analysis
+* Fraud Detection
 
-Syritel Customer Churn Analysis: Develop a predictive model to identify customers likely to churn, enabling proactive customer retention strategies.
+Whether its building predictive models, visualizing trends in tableau or improving operational efficiency with data automation, I love creating practical solutions that drive business value
 
-Microsoft movie studio creation:  Analyzed movie data to guide content creation and marketing strategies for a movie studio project, focusing on audience engagement and box office prediction.
+Tool & Tech:
 
-Twitter Sentiment analysis: Developed a sentiment analysis model to classify tweets about Apple and Google products, using natural language preprocessing (NLP) techniques.
+Python, Pandas, Numpy, Scikit-learn, TensorFlow, SQL, Git, Tableau, Excel
 
-Customer Segmentation Analysis:  Developed a clustering model to segment customers based on purchasing behavior, enabling targeted marketing strategies and personalized customer engagement
+Current Focus:
 
-What I'm interested in I'm always excited to explore new data science projects and challenges. Here's what I'm currently focusing on:
-
-MAchine learning: Classification, Regression, Anomaly detection, Recommender system
-Natural Language Processing: Sentiment Analysis, Chatbot Development
-Data Analysis: Insights Extraction, Predictive modeling
-Collaboration: Open to partnering on innovative data science projects in Python
-If you are looking for someone passionate about data and ready to collaborate, I'd love to connect.
+* Migrating ML models TensorFLow to JAX
+* Building strong portfolio in forecasting and anomaly detection
+* Exploring opprtunities in data science and machine learning
 
 🌱 I’m currently learning ... I'm continuously expanding my knowledge in data science, currently diving deeper into: Advanced Machine Learning Algorithms Model Optimization and Hyperparameter tuning Data engineering and Deployment
 
