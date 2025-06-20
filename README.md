@@ -1,6 +1,8 @@
 About me
 
-Hello, I'm Catherine, a passionate data scientist with a knack for transforming data into actionable insights. My interest in data science has been fueled by curiosity and a love for tackling real-world challenges. I enjoy diving into data to uncover hidden patterns, make data-driven decisions, and deliver impactful solutions. My projects
+Hello, I'm Catherine, a passionate data scientist with a knack for transforming data into actionable insights. My interest in data science has been fueled by curiosity and a love for tackling real-world challenges. I enjoy diving into data to uncover hidden patterns, make data-driven decisions, and deliver impactful solutions. 
+
+My projects
 
 I've had the pleasure of working on diverse projects showcasing my data analysis, machine learning, and NLP skills. Here are a few highlights:
 
