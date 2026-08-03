@@ -1,12 +1,12 @@
 About me
 
-Hello, I'm Catherine, a data driven professional blending years of experience in procurement and supply chain with a growing expertise in data science and analytics. I recently upskilled through a Data Science certification and I'm passionate about turning messy data into clear insigts and acionable decisions.
+Hello, I'm Catherine, a data driven professional blending years of experience in procurement and supply chain with a growing expertise in data science and analytics. I recently upskilled through a Data Science certification and I'm passionate about turning messy data into clear insights and actionable decisions.
 
 My journey started in inventory and procurement management optimizing monthly orders, managing internal food supply chains, and ensuring data accuracy in educational institution. Today, I'm using Python, SQL, Tableau and Machine learning to solve real world problems in:
 
 * Demand Forecasting
 * Procurement Analytics
-* Customer Behavoir Analysis
+* Customer Behavior Analysis
 * Fraud Detection
 
 Whether its building predictive models, visualizing trends in tableau or improving operational efficiency with data automation, I love creating practical solutions that drive business value
@@ -17,11 +17,13 @@ Python, Pandas, Numpy, Scikit-learn, TensorFlow, SQL, Git, Tableau, Excel
 
 Current Focus:
 
-* Migrating ML models TensorFLow to JAX
-* Building strong portfolio in forecasting and anomaly detection
-* Exploring opprtunities in data science and machine learning
+* Building advanced procurement analytics solutions
+* Improving demand forecasting models for inventory management
+* Developing supplier performance and spend optimization dashboards
+* Apply machine learning to procurement and supply chain challenges
+* Expanding my portfolio with real world procurement analytics projects
 
-🌱 I’m currently learning ... I'm continuously expanding my knowledge in data science, currently diving deeper into: Advanced Machine Learning Algorithms Model Optimization and Hyperparameter tuning Data engineering and Deployment
+🌱 I’m currently learning ... I'm continuously expanding my knowledge in data science and procurement analytics, currently diving deeper into: advanced supply chain analytics, predictive analytics for procurement, machine learning model optimization, data engineering for analytics pipeline and cloud-based analytics tools
 
 ⚡ Fun fact: ... I'm always up for a challenge and love trying new things, whether it's experimenting with the latest data science techniques or exploring new hobbies outside of tech!
 
