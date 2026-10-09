@@ -9,7 +9,7 @@
 box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#14181f;--card:#1c222c;--ink:#e8ebf0;--mute:#9aa4b5;--line:#2c3441;--acc:#6fc2a8;--accbg:#1d332d;--warn:#33291a}}
 :root[data-theme="dark"]{--bg:#14181f;--card:#1c222c;--ink:#e8ebf0;--mute:#9aa4b5;--line:#2c3441;--acc:#6fc2a8;--accbg:#1d332d;--warn:#33291a}
-html{scroll-padding-top:env(safe-area-inset-top,0px);scroll-behavior:smooth}
+html{scroll-padding-top:env(safe-area-inset-top,0px);scroll-behavior:smooth;background:var(--bg)}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 Georgia,"Times New Roman",serif}
 .w{max-width:860px;margin:0 auto;padding:0 20px}
@@ -37,7 +37,7 @@ ul{margin:0 0 12px;padding-left:20px}li{margin-bottom:6px}
 table{border-collapse:collapse;width:100%;font:14px system-ui,sans-serif;margin:8px 0}
 th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
 th{color:var(--mute);font-weight:600}
-footer{padding:32px 0 48px;color:var(--mute);font:14px system-ui,sans-serif}
+footer{padding:32px 0 48px;color:var(--ink);background:var(--bg);font:14px system-ui,sans-serif}
 </style>
 </head>
 <body>
@@ -142,7 +142,7 @@ footer{padding:32px 0 48px;color:var(--mute);font:14px system-ui,sans-serif}
 <div class="tags"><span class="tag">Python</span><span class="tag">pandas</span><span class="tag">ABC / Pareto</span><span class="tag">Plotly</span><span class="tag">Risk matrix</span><span class="tag">Strategic sourcing</span><span class="tag">KPI dashboards</span></div>
 </section>
 
-<section>
+<section style="border-bottom:0">
 <div class="lab">Across all three</div>
 <h2>How I work</h2>
 <ul>
